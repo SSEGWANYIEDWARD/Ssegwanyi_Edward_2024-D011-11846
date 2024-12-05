@@ -1,0 +1,15 @@
+#toyota-card{
+    background-color: bisque;
+}
+body{
+    background-image: url(porshe.jpg);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+}
+#GLE-card{
+    background-image: url(Mercedes-Benz-Logo.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
